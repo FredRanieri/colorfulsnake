@@ -1,0 +1,222 @@
+# depslib dependency file v1.0
+1478923902 source:c:\users\fred\documents\snake\main.cpp
+	<SDL.h>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"SDL_opengl.h"
+	"SDL_image.h"
+	"mapa_snake.h"
+	"atuador_snake.h"
+	"string"
+
+1478845475 source:c:\users\fred\documents\snake\mapa_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+
+1478116399 c:\users\fred\documents\snake\mapa_snake.h
+
+1478832779 source:c:\users\fred\documents\snake\atuador_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"atuador_snake.h"
+
+1478832779 c:\users\fred\documents\snake\atuador_snake.h
+
+1478118007 c:\users\fred\documents\snake\vector2.0.h
+	"atuador_snake.h"
+
+1478116399 source:c:\users\fred\documents\snake\vector2.0.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"vector2.0.h"
+
+1478832779 source:c:\users\fred\documents\snake - copia\atuador_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"atuador_snake.h"
+
+1478832779 c:\users\fred\documents\snake - copia\atuador_snake.h
+
+1479603848 source:c:\users\fred\documents\snake - copia\main.cpp
+	<SDL.h>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	"SDL_opengl.h"
+	"SDL_image.h"
+	"mapa_snake.h"
+	"atuador_snake.h"
+	"string"
+
+1478116399 c:\users\fred\documents\snake - copia\mapa_snake.h
+
+1478845475 source:c:\users\fred\documents\snake - copia\mapa_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+
+1478832779 source:c:\users\fred\documents\snake original\atuador_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"atuador_snake.h"
+
+1478832779 c:\users\fred\documents\snake original\atuador_snake.h
+
+1479616720 source:c:\users\fred\documents\snake original\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+	"atuador_snake.h"
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1479616720 c:\users\fred\documents\snake original\mapa_snake.h
+
+1479616720 source:c:\users\fred\documents\snake original\mapa_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+
+1478832779 source:c:\users\fred\desktop\snake original\atuador_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"atuador_snake.h"
+
+1478832779 c:\users\fred\desktop\snake original\atuador_snake.h
+
+1479776798 source:c:\users\fred\desktop\snake original\mapa_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+
+1479777440 c:\users\fred\desktop\snake original\mapa_snake.h
+	<string>
+
+1479782184 source:c:\users\fred\desktop\snake original\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+	"atuador_snake.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<iostream>
+	<fstream>
+	"SDL_mixer.h"
+
+1478832779 source:c:\users\gabriel chaves\desktop\snake-original 2\snake original\atuador_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"atuador_snake.h"
+
+1478832779 c:\users\gabriel chaves\desktop\snake-original 2\snake original\atuador_snake.h
+
+1479764651 source:c:\users\gabriel chaves\desktop\snake-original 2\snake original\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+	"atuador_snake.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<iostream>
+	<fstream>
+	"SDL_mixer.h"
+
+1479616720 c:\users\gabriel chaves\desktop\snake-original 2\snake original\mapa_snake.h
+
+1479762207 source:c:\users\gabriel chaves\desktop\snake-original 2\snake original\mapa_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+
+1478832780 source:c:\users\rodrigo destefano\desktop\trabalho final\snake original\atuador_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"atuador_snake.h"
+
+1478832780 c:\users\rodrigo destefano\desktop\trabalho final\snake original\atuador_snake.h
+
+1479782186 source:c:\users\rodrigo destefano\desktop\trabalho final\snake original\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+	"atuador_snake.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<iostream>
+	<fstream>
+	"SDL_mixer.h"
+
+1479777442 c:\users\rodrigo destefano\desktop\trabalho final\snake original\mapa_snake.h
+	<string>
+
+1479776800 source:c:\users\rodrigo destefano\desktop\trabalho final\snake original\mapa_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+
+1478832780 source:c:\users\rodrigo destefano\desktop\unifei\algoritmos e estrutura de dados\minigame - trabalho final\trabalho final\snake original\atuador_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"atuador_snake.h"
+
+1480009394 c:\users\rodrigo destefano\desktop\unifei\algoritmos e estrutura de dados\minigame - trabalho final\trabalho final\snake original\atuador_snake.h
+
+1479782186 source:c:\users\rodrigo destefano\desktop\unifei\algoritmos e estrutura de dados\minigame - trabalho final\trabalho final\snake original\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+	"atuador_snake.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<iostream>
+	<fstream>
+	"SDL_mixer.h"
+
+1479777442 c:\users\rodrigo destefano\desktop\unifei\algoritmos e estrutura de dados\minigame - trabalho final\trabalho final\snake original\mapa_snake.h
+	<string>
+
+1479776800 source:c:\users\rodrigo destefano\desktop\unifei\algoritmos e estrutura de dados\minigame - trabalho final\trabalho final\snake original\mapa_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+
+1478832780 source:c:\users\rodrigo destefano\desktop\unifei\algoritmos e estrutura de dados i\minigame - trabalho final\trabalho final\snake original\atuador_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"atuador_snake.h"
+
+1480009394 c:\users\rodrigo destefano\desktop\unifei\algoritmos e estrutura de dados i\minigame - trabalho final\trabalho final\snake original\atuador_snake.h
+
+1479782186 source:c:\users\rodrigo destefano\desktop\unifei\algoritmos e estrutura de dados i\minigame - trabalho final\trabalho final\snake original\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+	"atuador_snake.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<iostream>
+	<fstream>
+	"SDL_mixer.h"
+
+1479777442 c:\users\rodrigo destefano\desktop\unifei\algoritmos e estrutura de dados i\minigame - trabalho final\trabalho final\snake original\mapa_snake.h
+	<string>
+
+1479776800 source:c:\users\rodrigo destefano\desktop\unifei\algoritmos e estrutura de dados i\minigame - trabalho final\trabalho final\snake original\mapa_snake.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"mapa_snake.h"
+
