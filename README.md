@@ -1,4 +1,4 @@
-# colorful-snake
+# ColorfulSnake Version 1.0
 
 New version of mobile game Snake
 
